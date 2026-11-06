@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"dni":{"$numberInt":"1"}},"name":"dni_1","unique":true}],"uuid":"8f56ebeb32eb4c92938ae5a85bcbbe97","collectionName":"socios","type":"collection"}
